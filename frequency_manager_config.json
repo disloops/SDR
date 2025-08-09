@@ -1,0 +1,106 @@
+{
+    "bookmarkDisplayMode": 1,
+    "lists": {
+        "Amateur": {
+            "bookmarks": {
+                "[2M] K3IR Manheim": {
+                    "bandwidth": 125000.0,
+                    "frequency": 145230000.0,
+                    "mode": 1
+                },
+                "[2M] KA0JQO Cornwall DMR": {
+                    "bandwidth": 125000.0,
+                    "frequency": 147105000.0,
+                    "mode": 1
+                },
+                "[2M] KX3B Buck": {
+                    "bandwidth": 125000.0,
+                    "frequency": 146745000.0,
+                    "mode": 1
+                },
+                "[2M] N3FYI Lancaster": {
+                    "bandwidth": 125000.0,
+                    "frequency": 145310000.0,
+                    "mode": 1
+                },
+                "[2M] W3RRR Red Rose": {
+                    "bandwidth": 125000.0,
+                    "frequency": 147015000.0,
+                    "mode": 1
+                },
+                "[33CM] N3TUQ Cornwall": {
+                    "bandwidth": 125000.0,
+                    "frequency": 927587500.0,
+                    "mode": 1
+                },
+                "[70CM] K3IR Manheim": {
+                    "bandwidth": 125000.0,
+                    "frequency": 443250000.0,
+                    "mode": 1
+                },
+                "[70CM] K3IR Manheim 2": {
+                    "bandwidth": 125000.0,
+                    "frequency": 449975000.0,
+                    "mode": 1
+                },
+                "[70CM] K3LV Cornwall": {
+                    "bandwidth": 125000.0,
+                    "frequency": 447925000.0,
+                    "mode": 1
+                },
+                "[70CM] KA3CNT Lancaster 1": {
+                    "bandwidth": 125000.0,
+                    "frequency": 449225000.0,
+                    "mode": 1
+                },
+                "[70CM] KA3CNT Lancaster 2": {
+                    "bandwidth": 125000.0,
+                    "frequency": 449325000.0,
+                    "mode": 1
+                },
+                "[70CM] N3EIO Quarryville": {
+                    "bandwidth": 125000.0,
+                    "frequency": 448175000.0,
+                    "mode": 1
+                },
+                "[70CM] N3EZI Kirkwood": {
+                    "bandwidth": 125000.0,
+                    "frequency": 444600000.0,
+                    "mode": 1
+                },
+                "[70CM] N3TPL Hollywood": {
+                    "bandwidth": 125000.0,
+                    "frequency": 448625000.0,
+                    "mode": 1
+                },
+                "[70CM] W3AD Cornwall DMR": {
+                    "bandwidth": 125000.0,
+                    "frequency": 449025000.0,
+                    "mode": 1
+                },
+                "[70CM] W3BXW Cornwall": {
+                    "bandwidth": 125000.0,
+                    "frequency": 442150000.0,
+                    "mode": 1
+                },
+                "[70CM] W3FYI Lancaster": {
+                    "bandwidth": 125000.0,
+                    "frequency": 446475000.0,
+                    "mode": 1
+                },
+                "[70CM] W3RRR Lancaster": {
+                    "bandwidth": 125000.0,
+                    "frequency": 449575000.0,
+                    "mode": 1
+                },
+                "[70CM] W3XP Ephrata": {
+                    "bandwidth": 125000.0,
+                    "frequency": 444650000.0,
+                    "mode": 1
+                }
+            },
+            "showOnWaterfall": true
+        }
+    },
+    "selectedList": "General"
+}

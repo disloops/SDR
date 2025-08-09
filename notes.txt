@@ -38,3 +38,9 @@ ln -s sdr-trunk-linux-x86_64-v0.6.1 sdrtrunk
 #   - Sample Rate: 2.4 MSPS
 #   - Gain: 25-30 dB (reduces heat)
 #   - PPM: 0 (adjust if needed)
+
+--> SDR++ Configuration Transfer
+# To transfer frequency bookmarks to a new machine:
+# 1. Copy frequency_manager_config.json from this repo to ~/.config/sdrpp/
+# 2. Restart SDR++ to load the new bookmarks
+# 3. Contains 30 amateur radio frequencies from Lancaster & Dauphin Counties
