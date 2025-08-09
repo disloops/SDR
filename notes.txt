@@ -1,0 +1,40 @@
+I am using this repo to record and share notes on software defined radio (SDR) between machines.
+
+RTL-SDR v4 Setup Notes
+
+# SDRTrunk Location: ~/sdrpp_ubuntu_noble_amd64runk/
+# SDRTrunk Startup: cd ~/SDRTrunk && ./sdr-trunk-linux-x86_64-v0.6.1/bin/sdr-trunk
+# SDRTrunk Alias: sdrtrunk (added to ~/.bash_aliases)
+
+# SDR++ Location: /usr/bin/sdrpp (system-wide install)
+# SDR++ Startup: sdrpp
+
+--> Replication commands
+# 1. Install RTL-SDR and dependencies
+sudo apt update
+sudo apt install rtl-sdr librtlsdr-dev -y
+sudo usermod -a -G plugdev $USER
+sudo udevadm control --reload-rules && sudo udevadm trigger
+
+# 2. Test RTL-SDR
+rtl_test -t
+
+# 3. Install SDRTrunk (P25 trunking)
+sudo apt install openjdk-17-jdk -y
+wget https://github.com/DSheirer/sdrtrunk/releases/download/v0.6.1/sdr-trunk-linux-x86_64-v0.6.1.zip
+unzip sdr-trunk-linux-x86_64-v0.6.1.zip
+ln -s sdr-trunk-linux-x86_64-v0.6.1 sdrtrunk
+
+4. Install SDR++ (conventional monitoring)
+  a. Download sdrpp_ubuntu_noble_amd64.deb from SDR++ releases
+  b. sudo apt install libglfw3-dev libvolk-dev librtaudio-dev -y
+  c. Download a nightly build from https://github.com/AlexandreRouma/SDRPlusPlus/releases/tag/nightly
+  d. sudo dpkg -i /home/matt/Downloads/*.deb
+  e. sdrpp
+
+--> SDR++ setup
+# Configure RTL-SDR in SDR++:
+#   - Add RTL-SDR Source
+#   - Sample Rate: 2.4 MSPS
+#   - Gain: 25-30 dB (reduces heat)
+#   - PPM: 0 (adjust if needed)
