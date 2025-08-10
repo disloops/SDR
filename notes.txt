@@ -44,3 +44,9 @@ ln -s sdr-trunk-linux-x86_64-v0.6.1 sdrtrunk
 # 1. Copy frequency_manager_config.json from this repo to ~/.config/sdrpp/
 # 2. Restart SDR++ to load the new bookmarks
 # 3. Contains 30 amateur radio frequencies from Lancaster & Dauphin Counties
+
+--> Broadcasts
+Daily @ 9AM: 145:230 MHz K3IR
+Nightly @ 7PM: 145:230 MHz K3IR
+Tues @ 9PM: 145.230 MHz K3IR
+Sat @ 8:30 PM - 146.580 MHz K3IR
