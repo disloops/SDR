@@ -45,8 +45,50 @@ ln -s sdr-trunk-linux-x86_64-v0.6.1 sdrtrunk
 # 2. Restart SDR++ to load the new bookmarks
 # 3. Contains 30 amateur radio frequencies from Lancaster & Dauphin Counties
 
---> Broadcasts
+--> K3IR Broadcasts
 Daily @ 9AM: 145:230 MHz K3IR
 Nightly @ 7PM: 145:230 MHz K3IR
 Tues @ 9PM: 145.230 MHz K3IR
 Sat @ 8:30 PM - 146.580 MHz K3IR
+
+--> Other Regional Nets
+Daily @ 9:00 AM ET - Morning Grind (K3IR) - 145.230 MHz (118.8 Hz)
+Daily @ 7:45 PM ET - Lancaster County Welfare Net - 147.150 MHz (118.8 Hz)
+Monday @ 8:30 PM ET - York ARES/RACES - 146.970 MHz (123.0 Hz)
+Monday @ 9:00 PM ET - QCWA (W3BN Reading Club Repeater) - 146.910 MHz (131.8 Hz)
+Monday @ 9:00 PM ET - W3XP 2m (Ephrata Area Repeater Soc.) - 145.450 MHz (100.0 Hz)
+Tuesday @ 8:00 PM ET - K3LV (Lebanon Co. Emergency Net) - 147.315 MHz (82.5 Hz)
+Tuesday @ 8:00 PM ET - W3RRR 10 m Net (Red Rose Repeater Assn.) - 28.425 MHz
+Tuesday @ 8:00 PM ET - Weekly Workbench - 146.985 MHz (100.00 Hz)
+Tuesday @ 9:00 PM ET - SPARC Weekly Net - 145.230 MHz (118.8 Hz)
+Tuesday @ 9:00 PM ET - W3HZU (York elmer) - 146.970 MHz (123.0 Hz)
+Wednesday @ 7:00 PM ET - W3WAM (The Ham Shack) - 146.925 MHz (74.4 Hz)
+Wednesday @ 7:30 PM ET - K3ZMC (Pottstown Area Amateur Radio Club) - 147.210 MHz (131.8 Hz)
+Wednesday @ 9:00 PM ET - Central PA SKYWARN (W3ND) - 145.110 MHz (131.8 Hz)
+Wednesday @ 9:00 PM ET - W3RRR (Red Rose Repeater Soc.) - 147.015 MHz (118.8 Hz)
+Thursday @ 8:30 PM ET - W3WAN MADXRA - 146.925 MHz (74.4 Hz)
+Thursday @ 9:00 PM ET - W3AD (Lancaster Radio Transmitting Assn.) - 145.390 MHz (118.8 Hz)
+Friday @ 8:00 PM ET - W3BN (Reading Radio Club) - 146.910 MHz (131.8 Hz)
+Friday @ 8:00 PM ET - N3SLC (State Line Radio Club) - 145.250 MHz (114.8 Hz)
+Saturday @ 8:00 PM ET - KX3B - 146.745 MHz (114.8 Hz)
+Saturday @ 8:30 PM ET - Simplex Net - 146.520 MHz
+Sunday @ 8:00 PM ET - W3WAN - 146.925 MHz (74.4 Hz)
+1st/3rd Tuesday @ 8:30 PM ET - Lancaster Co. ARES (N3FYI repeater) - 145.310 MHz (118.8 Hz)
+1st Wednesday @ 8:30 PM ET - Lancaster Co. SKYWARN (N3FYI repeater) - 145.310 MHz (118.8 Hz)
+
+--> Non-Local HF Nets
+Weekdays @ 7:30 AM ET - East CARS - 7.255 MHz
+Weekends @ 8:00 AM ET - East CARS - 7.255 MHz
+Weekdays @ 7:15 AM ET - Southern Cross DX Net - 14.238.5 MHz
+Daily (not Sundays) @ 18:00 UTC - 10-10 International Net - 28.380 MHz
+Daily @ 20:00 UTC - 247 DX Net - 14.247 MHz
+Daily @ 5:00 PM ET - Eastern PA Phone/Traffic Net - 3.918 MHz
+Daily @ 5:00 PM ET - Western PA Phone/Traffic Net - 3.983 MHz
+Daily @ 02:00 UTC - 3905 75m SSB Early Net - 3.902 MHz (Century Club Net)
+Daily @ 04:00 UTC - 3905 40m SSB Late Net - 7.188 MHz (Century Club Net)
+Daily @ 05:00 UTC - 3905 75m SSB Late Net - 3.909 MHz (Century Club Net)
+Sunday @ 8:00 AM ET - PEMA - ARES/RACES Statewide Net - 3.9935 MHz (1st Sunday of the month)
+Sunday @ 8:30 AM ET - PEMA - ARES/RACES Central Net - 3.9925 MHz
+Sunday @ 9:00 AM ET - PEMA - ARES/RACES Eastern Net - 3.9875 MHz
+
+# Source: https://www.k3ir.org/other-nets

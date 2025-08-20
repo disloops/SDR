@@ -28,6 +28,11 @@
                     "frequency": 147015000.0,
                     "mode": 1
                 },
+                "[2M] W3RRR Lancaster Hospital": {
+                    "bandwidth": 125000.0,
+                    "frequency": 146580000.0,
+                    "mode": 1
+                },
                 "[33CM] N3TUQ Cornwall": {
                     "bandwidth": 125000.0,
                     "frequency": 927587500.0,
@@ -91,6 +96,16 @@
                 "[70CM] W3RRR Lancaster": {
                     "bandwidth": 125000.0,
                     "frequency": 449575000.0,
+                    "mode": 1
+                },
+                "[70CM] KB3VDL Lykens": {
+                    "bandwidth": 125000.0,
+                    "frequency": 449825000.0,
+                    "mode": 1
+                },
+                "[70CM] N3NRN Red Lion": {
+                    "bandwidth": 125000.0,
+                    "frequency": 449425000.0,
                     "mode": 1
                 },
                 "[70CM] W3XP Ephrata": {
