@@ -2,9 +2,10 @@ I am using this repo to record and share notes on software defined radio (SDR) b
 
 RTL-SDR v4 Setup Notes
 
-# SDRTrunk Location: ~/sdrpp_ubuntu_noble_amd64runk/
+# SDRTrunk Location: ~/SDRTrunk/
 # SDRTrunk Startup: cd ~/SDRTrunk && ./sdr-trunk-linux-x86_64-v0.6.1/bin/sdr-trunk
 # SDRTrunk Alias: sdrtrunk (added to ~/.bash_aliases)
+# SDRTrunk Config Location: ~/SDRTrunk/ (copied to repo in sdrtrunk/)
 
 # SDR++ Location: /usr/bin/sdrpp (system-wide install)
 # SDR++ Startup: sdrpp
@@ -41,7 +42,7 @@ ln -s sdr-trunk-linux-x86_64-v0.6.1 sdrtrunk
 
 --> SDR++ Configuration Transfer
 # To transfer frequency bookmarks to a new machine:
-# 1. Copy frequency_manager_config.json from this repo to ~/.config/sdrpp/
+# 1. Copy sdrpp/frequency_manager_config.json from this repo to ~/.config/sdrpp/
 # 2. Restart SDR++ to load the new bookmarks
 # 3. Contains 30 amateur radio frequencies from Lancaster & Dauphin Counties
 

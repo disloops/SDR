@@ -115,6 +115,46 @@
                 }
             },
             "showOnWaterfall": true
+        },
+        "Etown College": {
+            "bookmarks": {
+                "ElizColl Sec": {
+                    "bandwidth": 125000.0,
+                    "frequency": 463600000.0,
+                    "mode": 1
+                },
+                "ElizColl Base 1": {
+                    "bandwidth": 125000.0,
+                    "frequency": 462075000.0,
+                    "mode": 1
+                },
+                "ElizColl Base 2": {
+                    "bandwidth": 125000.0,
+                    "frequency": 464575000.0,
+                    "mode": 1
+                },
+                "ElizColl Mobile 1": {
+                    "bandwidth": 125000.0,
+                    "frequency": 463450000.0,
+                    "mode": 1
+                },
+                "ElizColl Mobile 2": {
+                    "bandwidth": 125000.0,
+                    "frequency": 467075000.0,
+                    "mode": 1
+                },
+                "ElizColl Mobile 3": {
+                    "bandwidth": 125000.0,
+                    "frequency": 468600000.0,
+                    "mode": 1
+                },
+                "ElizColl Mobile 4": {
+                    "bandwidth": 125000.0,
+                    "frequency": 469575000.0,
+                    "mode": 1
+                }
+            },
+            "showOnWaterfall": true
         }
     },
     "selectedList": "General"
