@@ -361,3 +361,6 @@ dist
 temp/
 tmp/
 cache/
+
+# Backup files
+*.backup

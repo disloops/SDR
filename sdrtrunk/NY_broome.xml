@@ -1,0 +1,2343 @@
+<playlist version="4">
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC F1 Cntl" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="1" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC F-2 TAC" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="2" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC F-3 TAC" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="3" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC F-4 TAC" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="4" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC F-5 Cmd" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC F-6 TAC" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="6" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC F-7 EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC F-8 TAC" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC F-9 TAC" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="9" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC F10 TAC" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="10" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC F11 TAC" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="11" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC F12 TAC" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="12" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC F13 TAC" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="13" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC FTAC1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="14" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Systemwide" name="E-Wide (EMS)" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="15" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Interop" name="OTAC All" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="16" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Interop" name="OTAC 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="17" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Interop" name="OTAC 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="18" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="MMRS A" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="19" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="MMRS B" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="20" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SFD Control 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="21" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SFD Ops 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="22" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SFD Ops 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="23" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SFD Ops 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="24" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SFD Command 5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="25" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SFD Tac 9" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="26" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SFD Tac 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SFD Tac 8" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="28" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse Hancock International Airport (SYR)" name="SRAA ARFF" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="29" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SPD N/E Disp 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="33" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SPD S/W Disp 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="34" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse Hancock International Airport (SYR)" name="SRAA Police" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="35" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC LWIDE1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="36" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SPD Car-Car 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="37" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SPD Events 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="40" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC PTAC 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="44" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OCSO MRD E 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="47" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OCSO MRD W 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="48" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OCSO MRD N 5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="49" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC MRD SID 6" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="50" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OCSO MRD C-C 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="51" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New York State" name="NYSP Tac" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="53" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC PTAC 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="57" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC PTAC 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="58" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC PTAC 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="59" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="Syr Housing Sec" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="60" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OCSO SWAT" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="61" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Intra/Inter-County Events" name="CAYTAC1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="63" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Intra/Inter-County Events" name="CAYTAC2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="64" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Intra/Inter-County Events" name="MADTAC3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Intra/Inter-County Events" name="MADTAC4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="66" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Intra/Inter-County Events" name="ONOTAC5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="67" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Intra/Inter-County Events" name="ONOTAC6" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="68" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Intra/Inter-County Events" name="Regional Tac 8" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="69" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Intra/Inter-County Events" name="Regional Tac 9" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="70" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Intra/Inter-County Events" name="OSWTAC7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="71" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="Onon DOT 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="72" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="Onon DOT 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="73" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="Onon MWB 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="74" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="OCWA 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="75" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="Onon Parks 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="76" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="Onon Parks 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="77" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="OC Health 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="78" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="OC Health 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="79" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="Syr Housing Mnt" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="81" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Local Government" name="E Syracuse DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="82" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Local Government" name="Onondaga Twn Hwy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="83" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Local Government" name="Tully Hwy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="84" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC CH 15" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="88" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="Onon EM" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="89" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC Correctns" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="91" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="OC Civic Ctr" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="92" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="Onon E911 Tech" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="93" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Local Government" name="Fabius Hwy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="95" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Local Government" name="Lafayette Hwy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="96" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Schools and Universities" name="Lafayette Bus" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="97" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Schools and Universities" name="Fab-Pomp Bus" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="98" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="OC Health 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="99" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="Syracuse Water" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="100" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="Syr Streets" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="101" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="Syr Sanitation" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="102" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse University" name="SU Pub Safety" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="103" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse University" name="SU Pub Sfty Tac" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="104" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC Probation" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="105" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="Onon 911 Trng 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="106" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="Onon 911 Trng 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="107" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="Onon 911 Trng 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="108" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Schools and Universities" name="BaldwinsvilleSch" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="109" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC FirePol" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="110" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Systemwide" name="F-Wide (Fire)" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="111" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="Syr City Schools" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="112" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="SUNY Upstate Medical University" name="SUNY Upstate PD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="113" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="SUNY College of Environmental Science" name="SUNY-ESF Police" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="114" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Systemwide" name="L-Wide (Law)" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="115" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New York State" name="NYS Park PD R5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="117" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New York State" name="NYS Park PD R4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="118" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="Syr Sch Sec" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="119" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC PrisTrans" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="122" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="Onon E911 Admin" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="123" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC Drug TF" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="125" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SPD CID 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="127" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC MRD CID" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="132" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Services" name="OC Court Sec" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="138" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Local Government" name="Pompey Hwy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="139" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New York State" name="NYS Attorney Gen" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="140" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="AMR Dispatch" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="141" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Federal" name="US Probation" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="142" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="TLC Ambulance" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="143" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New York State" name="NYS Watch Center" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="144" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SPD CID 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="145" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OCSO SIU" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="146" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Federal" name="US ATF" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="147" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse University" name="SU Ambulance" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="148" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New York State" name="NYSP VGNET" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="149" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Intra/Inter-County Events" name="Regional Tac 10" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="150" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Intra/Inter-County Events" name="Regional Tac 11" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="151" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Interop" name="OC SEC TAC 12" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="152" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Interop" name="OC SEC TAC 13" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="153" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse Hancock International Airport (SYR)" name="SRAA Maintenance" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="154" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="Amazon Fire Clay" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="155" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC Law Tac 8" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="160" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC Law Tac 9" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="161" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC Law Tac 10" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="162" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC Law Tac 11" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="163" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC Law Tac 12" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="164" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Interop" name="ONO TAC 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="165" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Interop" name="ONO TAC 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="166" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Interop" name="ONO TAC 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="167" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Interop" name="ONO TAC 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="168" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Interop" name="ONO TAC 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="169" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Interop" name="ONO TAC 8" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="170" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SPD Tech Advisor" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="171" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Law Enforcement" name="OC LE Data" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="175" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="City TAC AES" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="178" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Interop" name="OC SEC TAC 14" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="182" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Interop" name="OC SEC TAC 15" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="183" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC Training 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="187" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC Fire 11 " list="NY_broome_CNYICC">
+    <id type="talkgroup" value="188" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Onondaga County Fire/EMS" name="OCFC Fire 12" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="189" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Syracuse (City)" name="SFD Dispatch" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="203" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Systemwide" name="Law Intercom" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="311" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Systemwide" name="Fire Intercom" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="312" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Medevac" name="A-G 1 Cayuga" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="401" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Medevac" name="A-G 2 Madison" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="402" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Medevac" name="A-G 3 Onondaga" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="403" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Medevac" name="A-G 4 Oswego" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="404" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Medevac" name="A-G 5 Jefferson" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="405" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Medevac" name="A-G 6 Oneida" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="406" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Medevac" name="LifeNet 7-10" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="408" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="AFD Emrgency" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5001" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="AFD Dispatch" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5002" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="AFD Command" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5003" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="AFD / APD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5004" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="AFD TAC 5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5005" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="AFD TAC 6" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5006" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="AFD TAC 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5007" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="AFD TAC 8" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5008" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="AFD LZ" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5009" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="Auburn Inter" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5010" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Interop" name="Cay Interop" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5011" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="APD Emrgency" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5101" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="APD Prime" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5102" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="APD Traffic" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5103" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="APD TAC 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5104" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="APD TAC 5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5105" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="APD TAC 6" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5106" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="APD ERT" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5109" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="Auburn DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5202" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="Auburn Waste" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5203" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="Auburn Zone" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5206" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Services" name="Cay Highway 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5307" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Services" name="Cay Highway 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5308" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Services" name="Cay Highway 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5309" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Services" name="Cay Highway 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5310" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Services" name="Cay Highway 5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5311" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Fire/EMS" name="Cay FD/EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5312" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Fire/EMS" name="Cay Command" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5313" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Fire/EMS" name="Cay TAC-4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5314" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Fire/EMS" name="Cay TAC-5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5315" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Fire/EMS" name="Cay TAC-6" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5316" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Fire/EMS" name="Cay TAC-7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5317" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Fire/EMS" name="Cay TAC-8" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5318" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Fire/EMS" name="Cay Amb - ACH" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5319" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Services" name="Emerson Park" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5320" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Law Enforcement" name="Cay Law Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5401" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Law Enforcement" name="Cay Law Tac 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5402" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Law Enforcement" name="Cay Law Tac 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5403" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Local Law Enforcement" name="Weedsport PD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5409" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Law Enforcement" name="Cay Courts" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5413" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Law Enforcement" name="Cay Jail" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5415" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Cayuga County Services" name="Cay EMO" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5600" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Auburn (City)" name="Auburn EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="5708" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Law Enforcement" name="MC Law Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7101" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Law Enforcement" name="MC Law Data" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7102" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Law Enforcement" name="MC Law Ops 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7103" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Law Enforcement" name="MC Law C-C" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7104" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Law Enforcement" name="Oneida City PD 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7105" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Law Enforcement" name="MC Jail" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7108" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Indian Nation" name="OIN PD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7118" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Indian Nation" name="OIN PD Car-Car" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7119" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Indian Nation" name="OIN PD Tac" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7120" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Law Enforcement" name="MC Law Ops 8" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7129" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Schools and Universities" name="SUNYMorsvl PD 4 " list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7133" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Interop" name="MC Countywide" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7201" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Municipal Services" name="MC Highway 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7202" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Municipal Services" name="MC Highway 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7203" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Municipal Services" name="MC Highway 8" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7204" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Municipal Services" name="MC Solid Waste 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7205" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Municipal Services" name="MC Solid Wast 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7206" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Municipal Services" name="MC Town Hwy N" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7210" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Municipal Services" name="MC Town Hwy SE" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7211" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Municipal Services" name="MC Town Hwy SW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7212" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Municipal Services" name="MC Highway 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7213" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Municipal Services" name="MC Highway 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7214" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Municipal Services" name="MC Highway 5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7215" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Municipal Services" name="MC Highway 6" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7216" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Municipal Services" name="MC Highway 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7217" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="MC EMS Ops 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7301" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="MC EMS Ops 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7302" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Cazenovia EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7309" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Grtr Lenox EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7310" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Smthfld-Eatn EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7311" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="SOMAC EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7312" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="MC FD Batt 1 SOP" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7421" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="MC FD Batt 2 SOP" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7422" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="MC FD Batt 3 SOP" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7423" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="MC FD Batt 1 T-T" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7424" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="MC FD Batt 2 T-T" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7425" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="MC FD Batt 3 T-T" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7426" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Bridgeport FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7427" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Canastota FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7428" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Cazenovia FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7429" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Chittenango FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7430" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="DeRuyter FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7431" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Georgetown FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7434" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Hamilton FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7435" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Hubbardsville FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7436" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Lincoln FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7438" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Morrisville FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7440" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Munnsville FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7441" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="N Chittenango FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7444" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Oneida Cty FD 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7445" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Smithfield FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7446" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Wampsville FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7447" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Eaton FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7448" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="MC FD/EMS Coord" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7449" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="MC FD Cmd 5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7450" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="MC FD Tac 6" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7452" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="MC FD Tac 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7453" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="MC Fire Dispatch" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7477" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Fire/EMS" name="Madison RA Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7478" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Schools and Universities" name="DeRuyter CSD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7505" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Madison County Interop" name="MC Interops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="7904" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Interop" name="Countywide15" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8001" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Interop" name="Countywide16" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8002" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="County Highway" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8003" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="OC Hwy Ops " list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8004" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="OC Hwy Admin" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8005" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="Airport Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8006" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="OC Hwy Parish" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8007" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="OC Hwy Scriba" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8008" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="OC Hwy Trk-Trk" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8009" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="SolidWasteDp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8010" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="SolidWasteOp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8011" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="OC Law Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8012" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Law Enforcement" name="OswegoCityPD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8013" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Law Enforcement" name="FultonCityPD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8014" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Oswego Rcrds" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8015" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Law Tact 13" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8016" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Law Tact 14" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8017" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Criminal Inv" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8018" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Sheriff CID" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8019" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Court Sec" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8020" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="ESU 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8021" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="ESU 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8022" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Schools and Universities" name="SUNYOswegoPD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8023" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Schools and Universities" name="SUNY Unv" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8024" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Traffic/ACO" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8025" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Schools and Universities" name="Cayuga Coll" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8026" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Schools and Universities" name="Cayuga Unv" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8027" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Oswego DA" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8028" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Oswego Narc" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8029" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Special Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8030" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Probation" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8032" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="Survey Teams" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8035" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Security" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8036" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Interop" name="EMO Admin" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8037" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Interop" name="EMO RAD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8038" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County EMS" name="EMS Dispatch" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8039" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County EMS" name="EMS Major" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8040" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County EMS" name="EMS EOPS 6" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8041" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County EMS" name="EMS Ops 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8042" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County EMS" name="EMS Ops 5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8043" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County EMS" name="OSW Hospital" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8045" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Fire" name="Fire Disptch" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8046" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Fire" name="Fireground 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8047" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Fire" name="Fireground 8" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8048" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Fire" name="Fireground 9" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8049" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Fire" name="Fireground10" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8050" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Fire" name="Fireground11" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8051" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Fire" name="Fireground12" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8052" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Fire" name="Fireground14" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8053" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Fire" name="HazMat 13" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8054" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Fire" name="HazMat 14" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8055" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="Redfield Hwy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8057" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Interop" name="RACES Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8058" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County EMS" name="Health Inter" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8059" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Oswego PDTac" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8060" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New York State" name="NYS DEC Admin" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8061" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="Granby Hwy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8063" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="Scriba Hwy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8064" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Schools and Universities" name="SUNY Oswego" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8065" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="Parish Hwy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8066" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="Fulton Hwy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8067" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="Hannibal Highway" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8069" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="Oswego City DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8070" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="SysTechs" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8094" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Drug TF 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8203" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Drug TF 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8204" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Drug TF 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8205" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Schools and Universities" name="SUNY Osw PD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8230" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="NovHindlcoFD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8300" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Altmar FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8301" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Federal" name="US Border/USCG" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8302" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="BrewertonOps" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8303" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Caughdenoy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8304" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="CentralSqOps" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8305" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Law Enforcement" name="CentralSqPD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8306" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="ClevelandOps" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8307" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Cody Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8308" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="ConstantiaFD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8309" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Interop" name="EMO Ops 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8310" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Fire" name="Fire Admin" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8311" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Law Enforcement" name="FPD Admin" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8312" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="FultonCityFD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8313" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="GranbyCntrOp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8314" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Hannibal FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8315" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Hastings FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8316" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Interop" name="EMO Ops 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8317" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Lacona FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8318" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County EMS" name="McFee EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8319" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Mexico FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8320" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Minetto FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8321" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="New Haven FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8322" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County EMS" name="NOCA Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8324" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County EMS" name="N Shore EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8325" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Orwell FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8326" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Interop" name="Search/Rescu" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8327" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Law Enforcement" name="Oswego PD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8328" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County EMS" name="Menter Ambulance" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8329" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Law Enforcement" name="Oswego Shrf" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8330" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="C Oswego FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8331" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="T Oswego FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8332" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Palermo FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8333" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Parish FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8334" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="PennellvleFD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8335" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Phoenix FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8336" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Law Enforcement" name="Phoenix PD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8337" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Law Enforcement" name="Pulaski PD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8338" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Redfield FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8339" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Richland FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8340" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Pulaski FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8341" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Sandy Crk FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8342" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County EMS" name="SAVAC Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8343" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Scriba FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8344" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County EMS" name="SOVAC Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8345" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Volney FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8346" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="W Amboy FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8347" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="W Monroe FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8348" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Local Fire" name="Wllmstown FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8349" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New York State" name="NYS Parole" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8350" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Services" name="Port Oswego" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8351" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Interop" name="OC Events" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="8355" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Dispatch Training" name="Fire Itcm Trng" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="9989" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Dispatch Training" name="LEDispTrng" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="9991" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Dispatch Training" name="OPD Training" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="9992" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Dispatch Training" name="OPD Training" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="9993" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Dispatch Training" name="FireDispTrng" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="9995" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oswego County Dispatch Training" name="EMSDispTrng" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="9996" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="St Lawrence County" name="StL Fire Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="18900" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="St Lawrence County" name="StL Test 18901" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="18901" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="St Lawrence County" name="StL Test 18902" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="18902" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="St Lawrence County" name="StL Test 18903" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="18903" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD Emergency" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27020" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Interop" name="BC Emergency" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27021" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Interop" name="BC All Interop" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27025" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC PSS Cntywide" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27040" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC PSS East" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27041" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC PSS West" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27042" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Cmd" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27050" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Ops 2W" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27051" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Ops 3W" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27052" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Ops 4W" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27053" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Ops 5W" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27054" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Ops 6W" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27055" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Ops 7W" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27056" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Ops 8E" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27057" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Ops 9E" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27058" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Ops 10E" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27059" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Ops 11E" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27060" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Ops 12C" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27061" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Ops 13C" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27062" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Ops 14C" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27063" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Ops 15C" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27064" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Interop" name="BC Event Ops 8" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27080" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Interop" name="BC Event Ops 9" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27081" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Interop" name="BC Event Ops 10" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27082" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD/EMS Paging" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27100" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC Batt 1 Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27101" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC Batt 2 Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27102" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC Batt 3 Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27103" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC Batt 4 Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27104" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD/EMS Ops 9C" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27110" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD/EMS Ops 3E" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27111" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD/EMS Ops 4E" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27112" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD/EMS Ops 5E" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27113" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD/EMS Ops 3W" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27114" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD/EMS Ops 4W" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27115" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD/EMS Ops 5W" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27116" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD/EMS Ops 6W" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27117" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD/EMS Ops 7W" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27118" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD/EMS Ops 8W" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27119" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County OES" name="BC OES Ops 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27124" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Binghamtn FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27125" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Deposit FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27126" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Lisle FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27127" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="WhtneyPnt FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27128" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Endicott FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27129" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="JohnsnCty FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27130" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Windsor FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27131" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Wst Crnrs FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27132" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Endwell FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27133" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Vestal FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27134" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Maine FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27135" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="W Endctt FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27136" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="PtDicknsn FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27137" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Killawog FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27138" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="PtCrane FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27139" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Kirkwood FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27140" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="ChenBrdge FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27141" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Hrprsvlle FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27142" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="ChenForks FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27143" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Conklin FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27144" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Glen Abry FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27145" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="San Sprgs FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27146" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="W Clsvlle FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27147" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Ouaquaga FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27148" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Union Ctr FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27149" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="W Windsor FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27150" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Hillcrest FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27151" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Est Maine FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27152" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Choc Ctr FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27153" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="TBnghamtn FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27154" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="5MP FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27155" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Triangle FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27156" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Prspct Tr FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27158" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Chenango FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27159" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC HazMat Ops 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27163" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD Pol Ops 5E" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27164" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD Pol Ops 6W" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27165" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD Pol Ops 7W" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27166" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC FD Pol Ops 8W" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27167" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC Special Ops 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27168" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC Special Ops 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27169" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC General Hosp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27171" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC Lourdes Hosp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27172" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC Wilson Hosp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27173" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Broome EMS Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27180" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Chenango EMS Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27181" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Clsvlle EMS Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27182" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC HarpFerry EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27183" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC Superior EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27184" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Union EMS Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27185" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Vestal EMS Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27186" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="E Broome EMS Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27187" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="Maine EMS Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27188" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Fire/EMS" name="BC EMS Polling" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27196" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="BC Sheriff Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27210" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Binghamton" name="Binghamtn PD Dsp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27211" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Endicott" name="Endicott PD Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27212" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Johnson City" name="JohnsnCty PD Dsp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27213" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Vestal" name="Vestal PD Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27214" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="BC Security Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27215" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="SUNY - Broome County" name="SUNY PD Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27216" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="BC Jail Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27217" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="BC Law Ops 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27220" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="BC Law Ops 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27221" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="BC Law Ops 5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27222" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="BC SWAT Ops 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27225" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="BC DTF Ops 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27226" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="BC Sheriff Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27230" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Binghamton" name="Binghamtn PD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27231" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="SUNY - Broome County" name="SUNY PD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27232" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Endicott" name="Endicott PD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27233" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Johnson City" name="JohnsnCty PD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27234" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Port Dickinson" name="PtDicknsn PD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27235" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Vestal" name="Vestal PD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27236" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="BC Security Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27237" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="SUNY - Broome County" name="SUNY Broome PS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27238" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="BC DA Ops 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27239" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New York State" name="NYS Mntl Hlth PD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27240" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="BC Probation Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27241" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="BC Jail Ops 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27242" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="BC Jail Transprt" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27243" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="NYSPP Ops 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27250" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="NYSP C Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27252" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="NYSP C Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27253" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Law Enforcement" name="NYSP Spec Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27254" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New York State" name="NYS DEC Rangers" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27270" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New York State" name="NYS DEC PD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27271" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC All Highway" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27300" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC Hwy Ops 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27301" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC Hwy Ops 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27302" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC Hwy Ops 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27303" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC Hwy Ops 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27304" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Local Services" name="Broome Hwy 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27310" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Local Services" name="Broome Hwy 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27311" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC Parks" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27315" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC Arena/Forum" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27316" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="Cole Park" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27317" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="Enjoie Park" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27318" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="Dorchester Park" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27319" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="Greenwood Park" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27320" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="Otsiningo Park" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27321" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27325" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC PSF Facility" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27326" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC Willow Pt" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27327" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Binghamton" name="Binghamton DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27330" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Binghamton" name="Binghamton Parks" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27331" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Binghamton" name="Binghamton Water" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27332" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Local Services" name="Barker DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27335" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Binghamton" name="Bing/Conklin DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27336" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Local Services" name="Chen/Dicknsn DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27338" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Local Services" name="Colsvil/Fntn DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27340" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Local Services" name="Dep/Snf/Wnds DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27341" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Endicott" name="Endicott DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27345" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Endicott" name="Endicott Water" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27346" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Johnson City" name="Johnson City DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27350" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Johnson City" name="Johnson City Wtr" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27351" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Local Services" name="Kirkwood DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27355" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Local Services" name="Lis/Tri/WhitDPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27356" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Local Services" name="Maine/Nanti DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27358" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Local Services" name="Union DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27360" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Local Services" name="Union Parks" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27361" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Local Services" name="Union Refuse" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27362" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Local Services" name="Union Hwy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27363" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Vestal" name="Vestal DPW" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27365" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Vestal" name="Vestal Parks" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27366" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Vestal" name="Vestal Water/Swr" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27367" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Vestal" name="Vestal Hwy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27368" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC Solid Waste 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27375" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC Solid Waste 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27376" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC Transit Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27380" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC Country Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27381" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC Airport Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27385" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC Health Dept" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27387" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Broome County Services" name="BC Soc Services" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27388" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="SUNY - Broome County" name="SUNY Bing ES Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27390" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="SUNY - Broome County" name="SUNY Bing Envirn" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="27391" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Interop" name="JE CW 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45000" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Interop" name="JE CW 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45001" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Interop" name="JE Event Tac 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45002" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Interop" name="JE Event Tac 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45003" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Interop" name="JE Event Tac 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45004" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Interop" name="JE Event Tac 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45005" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Interop" name="JE Event Tac 5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45006" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Interop" name="JE Event Tac 6" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45007" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Interop" name="JE Event Tac 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45008" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Interop" name="JE Event Tac 8" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45009" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Services" name="JE Highway 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45024" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Services" name="JE Highway 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45025" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Services" name="JE Transfer Stn" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45030" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Watertown International Airport (ART)" name="ART Ops 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45034" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Services" name="JE Bldgs/Grnds" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45038" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Fire/EMS" name="JE FD/EMS Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45056" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Fire/EMS" name="JE FD Tac 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45057" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Fire/EMS" name="JE FD Tac 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45058" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Fire/EMS" name="JE FD Tac 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45059" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Fire/EMS" name="JE FD Tac 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45060" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Fire/EMS" name="JE FD Tac 5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45061" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Fire/EMS" name="JE FD Tac 6" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45062" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Fire/EMS" name="JE FD Tac 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45063" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Fire/EMS" name="JE EMS Tac 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45072" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Fire/EMS" name="JE EMS Tac 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45073" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Fire/EMS" name="Carthage Hosp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45100" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Fire/EMS" name="River Hosp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45101" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Fire/EMS" name="Samaritan MedCtr" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45102" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Law Enforcement" name="JE LE Dispatch 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45104" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Law Enforcement" name="JE LE Dispatch 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45105" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Law Enforcement" name="JE LE Tac 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45106" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Law Enforcement" name="JE LE Tac 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45107" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Law Enforcement" name="JE LE Tac 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45108" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Law Enforcement" name="JE LE Tac 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45109" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Law Enforcement" name="JE Probation" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45113" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Fire/EMS" name="JE Fire Investgr" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45235" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Services" name="JE Dog Control" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45236" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Watertown (City)" name="C/Watertown FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45312" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Watertown (City)" name="C/Watertown PD 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45328" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Watertown (City)" name="C/Watertown PD 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45329" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 1" name="Adams Center FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45570" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 1" name="Adams FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45572" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 1" name="S Jeff Rescue" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45574" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 3" name="Alex Bay FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45584" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 4" name="Oxbow FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45602" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 4" name="Antwerp FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45613" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 2" name="Three Mi Bay FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45618" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 2" name="Brownville FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45622" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 2" name="Cape Vincent FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45639" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 2" name="Cape Vincent EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45641" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 5" name="Great Bend FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45650" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 5" name="West Carthage FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45660" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 3" name="Depauville FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45666" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 1" name="Smithville FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45670" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 3" name="Clayton FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45674" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 1" name="Belleville FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45682" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 1" name="Mannsville FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45683" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 3" name="Plessis FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45685" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 1" name="Ellisburg FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45686" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 3" name="Redwood FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45690" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 1" name="Henderson FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45696" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 2" name="Sackets Harbr FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45720" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Le Ray" name="Le Ray Hwy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45728" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 4" name="Calcium FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45730" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 4" name="Evans Mills FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45739" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 4" name="Evans Mills EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45741" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 1" name="Lorraine FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45746" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 3" name="TI Rescue" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45778" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 3" name="Fishers Lndng FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45780" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 3" name="LaFargeville FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45782" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 3" name="Wellesley Isl FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45784" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 4" name="Pamelia FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45794" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 2" name="Glen Park FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45803" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 4" name="Indian River EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45810" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 4" name="Philadelphia FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45819" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 1" name="Rodman FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45826" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Lyme" name="Lyme Highway" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45840" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 2" name="Chaumont FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45851" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 5" name="Rutland FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45858" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 5" name="Felts Mills FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45859" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 5" name="Black River EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45864" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 5" name="Black River FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45866" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Theresa (Town)" name="Theresa Hwy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45872" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 4" name="Theresa FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45883" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Watertown (Town)" name="T/Watertown Hwy" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45888" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 1" name="T/Watertown FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45890" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 1" name="T/Watertown EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45892" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 4" name="North Pole FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45894" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 5" name="Natural Brdge FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45906" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 5" name="Deferiet FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45908" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 5" name="Carthage Rescue" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45913" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 5" name="Carthage FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45919" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 4" name="Fort Drum EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45936" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 4" name="Fort Drum FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45938" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County Fire/EMS" name="Guilfoyle EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45953" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Jefferson County FD/EMS Zone 5" name="Copenhagen FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="45956" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Fire/EMS" name="Oneida HazMat 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65006" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Schools and Universities" name="MVCC PD Ops 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65007" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New Hartford (Town)" name="NewHart Events10" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65008" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New Hartford (Town)" name="NewHart FD Ops 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65010" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New Hartford (Town)" name="NewHart PD C-C" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65011" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New Hartford (Town)" name="NewHart PD Data" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65014" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New Hartford (Town)" name="NewHart PD Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65015" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="New Hartford (Town)" name="NewHart PD Traff" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65017" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Law Enforcement" name="Oneida SO Invest" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65022" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Law Enforcement" name="Oneida SO Data" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65023" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Interop" name="Oneida Events 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65026" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Interop" name="Oneida Events 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65027" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Interop" name="Oneida Events 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65028" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Interop" name="Oneida Events 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65029" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Interop" name="Oneida Events 5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65030" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Interop" name="Oneida Events 6" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65031" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Interop" name="Oneida Events 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65032" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Interop" name="Oneida Events 8" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65033" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Interop" name="Oneida Events 9" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65034" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Law Enforcement" name="Oneida SO MRD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65035" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Law Enforcement" name="Oneida SO Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65036" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Fire/EMS" name="Oneida FD Cmd 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65039" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Fire/EMS" name="Oneida Fire Ctrl" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65040" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Fire/EMS" name="Oneida FD Ops 8" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65041" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Fire/EMS" name="Oneida FD Ops 5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65042" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Fire/EMS" name="Oneida FD Ops 6" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65043" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Fire/EMS" name="Oneida FD Ops 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65044" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Fire/EMS" name="Oneida FD Trng11" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65045" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Interop" name="Oneida Interop 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65046" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Interop" name="Oneida Interop 1" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65047" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Rome (City)" name="Rome FD Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65053" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Rome (City)" name="Rome FD Ops 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65054" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Rome (City)" name="Rome FD Ops 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65055" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Rome (City)" name="Rome FD Ops 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65056" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Rome (City)" name="Rome PD Data" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65061" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Rome (City)" name="Rome PD Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65062" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Rome (City)" name="Rome PD Ops 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65063" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Rome (City)" name="Rome PD Trfc 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65067" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Schools and Universities" name="SUNYPoly PD Ops4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65070" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Utica (City)" name="Utica Events 10" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65071" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Utica (City)" name="Utica FD Admin" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65072" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Utica (City)" name="Utica FD Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65074" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Utica (City)" name="Utica FD Ops 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65075" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Utica (City)" name="Utica FD Ops 3" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65076" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Utica (City)" name="Utica FD Ops 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65077" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Utica (City)" name="Utica FD Trng 11" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65078" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Utica (City)" name="Utica PD Car-Car" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65080" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Utica (City)" name="Utica PD Data" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65083" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Utica (City)" name="Utica PD Disp" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65084" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Utica (City)" name="Utica PD Tac Sqd" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65085" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Utica (City)" name="Utica PD Ops 4" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65086" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Utica (City)" name="Utica PD CID" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65087" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Utica (City)" name="Utica PD Traffic" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65089" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Utica (City)" name="Utica PD Trng 11" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65090" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Law Enforcement" name="Oneida FTF" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65091" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Barnevld FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65092" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Boonville FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65093" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Brdgewtr FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65094" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Camden FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65095" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Cassville FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65096" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="ClarkMlls FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65097" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Clayville FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65098" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Cleveland FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65099" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Clinton FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65100" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Deansbr FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65101" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Deerfield FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65102" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Florence FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65103" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Floyd FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65104" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Forestprt FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65105" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Holld Ptnt FD Op" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65106" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Lk Delta FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65107" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Lee Center FD Op" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65108" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Maynard FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65109" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="McCnnllvle FD Op" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65110" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="NewLndn FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65111" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="NY Mills FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65112" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="North Bay FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65113" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Oneida Castle FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65114" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Oriskany Falls F" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65115" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Oriskany FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65116" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Otter Lake FD Op" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65117" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="ParisHill FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65118" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Poland FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65119" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Remsen FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65120" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Sauquoit FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65121" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Sherrill FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65122" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="StanwixHgt FDOps" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65123" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Stittville FD Op" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65124" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="SylvnBch FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65125" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Taberg FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65126" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Vernon Center FD" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65127" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Vernon FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65128" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Verona FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65129" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Vienna FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65130" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Watervll FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65131" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="W. Leyden FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65132" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Western FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65133" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Westmrld FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65134" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="WhitesboroFD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65135" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="WillowvaleFD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65136" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Woodgate FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65137" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Yorkville FD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65138" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Amcare EMS" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65139" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Brdgewtr EMS Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65141" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Camden Amb. Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65142" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Central EMS Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65143" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Edwards EMS Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65144" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Kunkel EMS Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65145" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="N. Shore Amb. Op" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65147" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="NorStar Amb. Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65148" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Vineall Amb. Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65150" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Whitestown" name="Whitestwn PD Ops" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65162" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida Local Fire/EMS" name="Durhamville FD O" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65165" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Fire/EMS" name="Oneida FD Ops 2" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65182" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Fire/EMS" name="Oneida Hospitals" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65184" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Services" name="Griffiss Ground" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65185" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Services" name="Griffiss ARFF" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65186" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Services" name="Oneida Hwy 5" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65189" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Services" name="Oneida Hwy 6" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65190" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Services" name="Oneida Hwy 7" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65191" protocol="APCO25"/>
+  </alias>
+  <alias color="0" group="Oneida County Schools and Universities" name="SUNYPoly CallBox" list="NY_broome_CNYICC">
+    <id type="talkgroup" value="65194" protocol="APCO25"/>
+  </alias>
+  <channel system="Central New York Interoperable Communications Consortium (CNYICC)" name="Control" site="Broome" enabled="false" order="0">
+    <alias_list_name>NY_broome_CNYICC</alias_list_name>
+    <event_log_configuration/>
+    <source_configuration type="sourceConfigTunerMultipleFrequency" frequency_rotation_delay="400" source_type="TUNER_MULTIPLE_FREQUENCIES">
+      <frequency>453275000</frequency>
+      <frequency>453425000</frequency>
+      <frequency>453837500</frequency>
+      <frequency>454300000</frequency>
+    </source_configuration>
+    <aux_decode_configuration/>
+    <decode_configuration type="decodeConfigP25Phase1" modulation="CQPSK" traffic_channel_pool_size="20" ignore_data_calls="false"/>
+    <record_configuration/>
+  </channel>
+</playlist>
